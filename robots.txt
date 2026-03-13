@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://s-bhattacharya240611.github.io/spandanbhattacharya.github.io/sitemap.xml
